@@ -1,0 +1,187 @@
+h1 {
+	font-size: 53px;
+}
+
+p {
+	font-size: 18px;
+	font-style: helvetica;
+	text-align: center;
+}
+
+img {
+	margin: 17px auto;
+}
+
+
+p#center {
+	font-size: 17px;
+	text-align: center;
+	vertical-align:middle;
+}
+
+
+#wrapper {
+  width: 1000px;
+  height: auto;
+  margin: 0px auto;
+  position: relative;
+  background-color: yellow;
+}
+
+
+#header {
+	width: 850;
+	height: 200;
+	background-color: blue;
+	text-align: justify;
+	float: none;
+	clear: both;
+}
+
+
+#main_content {
+	width: 100%;
+	height: 450px;
+	background-color: #D8D8D8;
+	margin-top: 20px;
+}
+#wrapper #header p {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #F00;
+	vertical-align: middle;
+}
+
+
+#wrapper #header #headertext {
+	width: 600px;
+	float: right;
+	color: #F00;
+	font-size: 24px;
+}
+#clear {
+	clear: both;
+}
+
+
+#header_1 {
+  height: 100px;
+  position: relative; }
+  #header_1 .logo {
+    position: absolute;
+    display: block;
+    top: 10px;
+    left: 0px; }
+  #header_1 .tagline {
+    font-size: 1.230769231em;
+    position: absolute;
+    display: block;
+    top: 0px;
+    right: 0px;
+    line-height: 100px;
+    text-align: right; }
+    #header_1 .tagline strong {
+      color: blue; }
+
+
+#wrapper #leftpic {
+	float: left;
+	height: 430px;
+	width: 33.3%;
+	background-color: #39F;
+	background-image: url(123.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#wrapper #middlepic {
+	float: left;
+	height: 430px;
+	width: 33.3%;
+	background-color: #B3EE5D;
+	background-image: url(anonymous.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#wrapper #rightpic {
+	float: left;
+	height: 430px;
+	width: 33.3%;
+	background-color: #2FD5CC;
+	background-image: url(ladder.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+
+#wrapper #leftpic p {
+	font-size: 18px;
+	margin-top: 275px;
+}
+
+
+
+#wrapper #middlepic p {
+	font-size: 18px;
+	margin-top: 275px;
+}
+
+
+#wrapper #rightpic p {
+	font-size: 18px;
+	margin-top: 275px;
+}
+
+#wrapper #leftpic h1{
+	font-size: 30px;
+	text-align: center;
+}
+
+#wrapper #middlepic h1{
+	font-size: 30px;
+	text-align: center;
+}
+
+#wrapper #rightpic h1{
+	font-size: 30px;
+	text-align: center;
+}
+
+
+#testy {
+	background-color: #2FD5CC;
+	height: 160px;
+	width: 1000px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+
+#leftfloatfooter {
+width: 500px;
+height:  60px;
+background-color: blue;
+text-align: left;
+float: left;
+}
+
+
+#rightfloatfooter {
+width: 500px;
+height:  60px;
+background-color: red;
+text-align: left;
+float: right;
+}
+
+
+
